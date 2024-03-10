@@ -6,8 +6,15 @@ Sistem Inventaris Gudang yang meliputi Daftar Gudang,daftar Petugas,Daftar Suppl
 
 ## Fitur
 
-- Mobile Responsive Bootstrap Design
-- Laravel  + Bootstrap 
+- Dashboard
+- Daftar petugas (admin, staff gudang/barang)
+- Daftar barang
+- Daftar gudang
+- Daftar supplier
+- Barang masuk
+- Barang keluar
+- Laporan
+- Profile (ganti foto & password)
 
 
 ## Teknologi
@@ -20,7 +27,7 @@ Sistem Inventaris Gudang yang meliputi Daftar Gudang,daftar Petugas,Daftar Suppl
 
 ## AKSES REPOSITORY
 
-[![LINK AKSES REPOSITORY](https://img.shields.io/badge/AKSES-blue?style=for-the-badge&logo=github)](https://github.com/winnicodeofficial/sistem-asisten-dosen)
+[![LINK AKSES REPOSITORY](https://img.shields.io/badge/AKSES-blue?style=for-the-badge&logo=github)](git@github.com:winnicodeofficial/LARAVEL-SISTEM-INVENTARIS-STOK-GUDANG.git)
 
 
 
@@ -28,11 +35,18 @@ Sistem Inventaris Gudang yang meliputi Daftar Gudang,daftar Petugas,Daftar Suppl
 
 **HALAMAN DASHBOARD** 
 ![App Screenshot](screenshot/dashboard.png)
-![App Screenshot](screenshoot/landing_2.png)
-![App Screenshot](screenshoot/landing_3.png)
-![App Screenshot](screenshoot/login_1.png)
-![App Screenshot](screenshoot/register_1.png)
-![App Screenshot](screenshoot/dashboard_1.png)
+**HALAMAN LOG ACTIVITY** 
+![App Screenshot](screenshot/log.png)
+**HALAMAN PROFILE** 
+![App Screenshot](screenshot/profile.png)
+**HALAMAN DAFTAR PETUGAS** 
+![App Screenshot](screenshot/petugas.png)
+**HALAMAN DAFTAR BARANG MASUK** 
+![App Screenshot](screenshot/masuk.png)
+**HALAMAN DAFTAR BARANG KELUAR** 
+![App Screenshot](screenshot/keluar.png)
+**HALAMAN LAPORAN BARANG** 
+![App Screenshot](screenshot/laporan.png)
 
 
 ## Feedback
