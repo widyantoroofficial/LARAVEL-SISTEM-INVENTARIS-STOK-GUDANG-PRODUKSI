@@ -26,7 +26,7 @@ Sistem Inventaris Gudang yang meliputi Daftar Gudang,daftar Petugas,Daftar Suppl
 
 ## Screenshots
 
-## HALAMAN DASHBOARD 
+**HALAMAN DASHBOARD** 
 ![App Screenshot](screenshot/dashboard.png)
 ![App Screenshot](screenshoot/landing_2.png)
 ![App Screenshot](screenshoot/landing_3.png)
