@@ -51,9 +51,12 @@ Sistem Inventaris Gudang yang meliputi Daftar Gudang,daftar Petugas,Daftar Suppl
 
 ## Feedback
 
-If you have any feedback, please contact the developer:
+Berikan feedback atau Ingin Memproleh SourceCode:
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Developer-red?style=for-the-badge&logo=mail.ru)](mailto:mikozua45@gmail.com)
+
+**EMAIL DEVELOPER :** 
+
+mikozua45@gmail.com
 
 
 
